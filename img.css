@@ -1,0 +1,21 @@
+.item {
+width: 100px;
+padding: 10px;
+float: ;
+
+	
+}
+
+.h1 {
+font-family: Consolas;
+text-align: center;
+
+
+}
+
+.container {
+display: flex;
+border: solid;
+margin: 50px;
+
+}
